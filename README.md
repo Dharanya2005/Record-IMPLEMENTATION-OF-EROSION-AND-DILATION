@@ -1,5 +1,5 @@
 # Record-IMPLEMENTATION-OF-EROSION-AND-DILATION
-## Experiment 8
+## Experiment 9
 ## Name
 Dharanya N
 ## Reg no 
